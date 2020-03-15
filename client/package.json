@@ -9,6 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "proxy" : 5000
-
+  "proxy":"http://localhost:5000"
 }
